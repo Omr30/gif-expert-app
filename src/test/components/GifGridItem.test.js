@@ -37,7 +37,7 @@ describe('Pruebas en <GifGridItem />', () => {
 
         expect(className.includes('animate__flipInX') ).toBe( true );
 
-    })
+    });    
     
 
 
